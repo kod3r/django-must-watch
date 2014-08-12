@@ -29,6 +29,9 @@ Must-watch videos about Django (or about Python as applied to Django)
 * Christophe Pettus **Django under massive loads**
     * [Video (59:18)](https://www.youtube.com/watch?v=gBT4uxtSkFY)
 
+* Erik Labianca **Cryptography for Django Applications**
+    * [Video (35:57)](http://pyvideo.org/video/1381/cryptography-for-django-applications/)
+
 * Roger Barnes **Towards continuous deployment with Django**
     * [Video (33:56)](https://www.youtube.com/watch?v=_lgWVkYYtf4)
 
